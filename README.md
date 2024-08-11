@@ -1,4 +1,6 @@
-## Hi there 👋
+## Hola, explorador
+
+Aquí puedes ver los proyectos en los que te puedes inspirar _o copiar_.
 
 <!--
 **josuemurga/josuemurga** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
